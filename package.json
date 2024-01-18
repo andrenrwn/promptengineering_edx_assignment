@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "inquirer": "^9.2.12",
+    "langchain": "^0.1.4"
+  }
+}
